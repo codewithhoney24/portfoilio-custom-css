@@ -126,14 +126,14 @@
   .N-img img {
     width: 200px; /* Adjust size for small screens */
     height: 150px;
-  margin-bottom: -3rem;
+  margin-bottom: 1rem;
     margin-left:2.5rem ;
   }
 
   .para-text {
     font-size: 2rem; /* Adjust text size */
     text-align: center;
-    margin-bottom: 10rem;
+    margin-bottom: 1rem;
     margin-left: 15rem;
     
   }
