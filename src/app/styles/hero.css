@@ -130,7 +130,7 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-top: -3rem;
+    margin-top: 3rem;
     margin-left:2.5rem ;
   }
 
