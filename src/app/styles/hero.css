@@ -137,5 +137,37 @@
         padding-right: 10rem;
     
   }
+
+
+
+
+
+    /* Extra Small Screens (Below 320px) */
+@media (max-width: 480px) {
+  .hero-container {
+    display: flex; /* Use Flexbox for layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    padding: 2.5rem;
+    background-size: 40%;
+    bottom: -6rem;
+    background-position: center top; /* Align background to the center top */
+  }
+
+ 
+  .N-img img {
+    width: 150px; /* Adjust size for small screens */
+    height: 100px;
+  margin-bottom: 3rem;
+    margin-left:2.5rem ;
+  }
+
+  .para-text {
+   font-size: 1.6rem;
+        text-align: center;
+        margin-bottom: 3.5rem;
+        padding-right: 10rem;
+    
+  }
 }
 
