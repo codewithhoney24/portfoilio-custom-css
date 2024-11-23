@@ -130,15 +130,15 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-bottom: 15rem;
+    margin-bottom: 10rem;
     margin-left:2.5rem ;
   }
 
   .para-text {
     font-size: 1rem; /* Adjust text size */
     text-align: center;
-    margin-bottom: 15rem;
-    margin-right: 2rem;
+    margin-bottom: 10rem;
+    margin-right: 6rem;
     
   }
 }
