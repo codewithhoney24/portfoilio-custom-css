@@ -120,8 +120,9 @@
     background-position: center top; /* Align background to the center top */
   }
 
+ 
   .N-img {
-    
+    margin-top: 4rem; /* Adjust margin to move up */
     margin-right: 1rem; /* Move slightly to the right */
    
   }
@@ -129,14 +130,14 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    
+   
     margin-left:2.5rem ;
   }
 
   .para-text {
     font-size: 1rem; /* Adjust text size */
     text-align: center;
-
+   
     margin-right: 6.5rem;
     
   }
