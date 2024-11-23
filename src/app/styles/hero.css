@@ -160,14 +160,14 @@
   .N-img img {
     width: 80px; /* Smaller image for extra small screens */
     height: 80px;
-    margin-bottom: 7rem;
+    margin-bottom: 3rem;
     margin-left: 2.5rem;
   }
 
   .para-text {
     font-size: 0.9rem; /* Slightly smaller text for very small screens */
     text-align: center;
-    margin-bottom: 6rem;
+    margin-bottom: 3rem;
    margin-right: 6.5rem;
   }
 }
