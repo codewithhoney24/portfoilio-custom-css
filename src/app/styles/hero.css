@@ -121,7 +121,7 @@
   }
 
   .N-img {
-    margin-top: 1.5rem; /* Adjust margin to move up */
+    
     margin-right: 1rem; /* Move slightly to the right */
    
   }
@@ -129,14 +129,14 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-bottom: 7rem;
+    
     margin-left:2.5rem ;
   }
 
   .para-text {
     font-size: 1rem; /* Adjust text size */
     text-align: center;
-    margin-bottom: 6rem;
+
     margin-right: 6.5rem;
     
   }
