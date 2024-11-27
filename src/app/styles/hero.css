@@ -179,7 +179,7 @@
   }
  
     .N-img, .N-img img {
-        margin-top: 3rem;
+        margin-top: -3rem;
         transform: translateX(-1rem);
     }
 
