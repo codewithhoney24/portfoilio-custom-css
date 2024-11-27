@@ -171,13 +171,13 @@
     margin-top: 4rem; /* Move slightly upward */
     margin-left: auto; /* Center horizontally */
     margin-right: auto; /* Center horizontally */
-    transform: translateX(-1.5rem); /* Shift slightly to the left */
+    transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .N-img {
     margin-top: 4rem; /* Move slightly upward */
     text-align: center; /* Ensure the container is centered */
-    transform: translateX(-1.5rem); /* Shift slightly to the left */
+    transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .para-text {
@@ -207,13 +207,13 @@
     margin-top: 3.5rem; /* Move slightly upward */
     margin-left: auto; /* Center horizontally */
     margin-right: auto; /* Center horizontally */
-    transform: translateX(-1.2rem); /* Shift slightly to the left */
+    transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .N-img {
     margin-top: 3.5rem; /* Move slightly upward */
     text-align: center; /* Ensure the container is centered */
-    transform: translateX(-1.2rem); /* Shift slightly to the left */
+    transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .
