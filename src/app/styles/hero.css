@@ -170,25 +170,25 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-top: 4rem; /* Move slightly upward */
-    margin-left: 6rem; /* Center horizontally */
+    margin-top: 5rem; /* Move slightly upward */
+    margin-left: 0.8rem; /* Center horizontally */
     margin-right: auto; /* Center horizontally */
     transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .N-img {
-     margin-left:6rem;
+     margin-left:0.8rem;
     margin-top: 4rem; /* Move slightly upward */
     text-align: center; /* Ensure the container is centered */
     transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .para-text {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     text-align: center; /* Center text alignment */
     margin-right: auto; /* Centered */
     margin-left: auto; /* Centered */
-    margin-top: -1.5rem; /* Moved slightly up */
+    margin-bottom: 2rem; /* Moved slightly up */
     transform: translateX(-6.5rem); /* Shift slightly to the left */
   }
 }
@@ -208,24 +208,17 @@
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-top: 3.5rem; /* Move slightly upward */
-    margin-left: 6rem; /* Center horizontally */
+    margin-top: 4.5rem; /* Move slightly upward */
+    margin-left: 0.8rem; /* Center horizontally */
     margin-right: auto; /* Center horizontally */
     transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .N-img {
-    margin-left:6rem;
-    margin-top: 3.5rem; /* Move slightly upward */
+    margin-left:0.8rem;
+    margin-top: 4.5rem; /* Move slightly upward */
     text-align: center; /* Ensure the container is centered */
     transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
-  .
-
 }
-
-  
-  
-
-   
