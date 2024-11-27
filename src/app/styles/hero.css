@@ -157,6 +157,7 @@
 
 @media (max-width: 320px) {
   .hero-container {
+    min-height:65vh;
     display: flex; /* Use Flexbox for layout */
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
@@ -194,6 +195,7 @@
 
 @media (max-width: 220px) {
   .hero-container {
+    min-height:65vh;
     display: flex; /* Use Flexbox for layout */
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
