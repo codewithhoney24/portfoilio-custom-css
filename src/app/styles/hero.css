@@ -174,7 +174,7 @@
     text-align: center; /* Center text alignment */
     margin-right: auto; /* Centered */
     margin-left: auto; /* Centered */
-    margin-bottom: 2rem; /* Moved slightly up */
+    margin-bottom: 4rem; /* Moved slightly up */
     transform: translateX(-6.5rem); /* Shift slightly to the left */
   }
  
