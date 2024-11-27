@@ -1,5 +1,4 @@
 
-
 /* General Styles */
 .hero-container {
   background: url("/img (3).png") no-repeat;
@@ -116,71 +115,77 @@
 }
 
 
+
 /* Extra Small Screens (Below 480px) */
 @media (max-width: 480px) {
-.hero-container {
-  display: flex; /* Use Flexbox for layout */
-  flex-direction: column; /* Stack items vertically */
-  align-items: center; /* Center items horizontally */
-  padding: 2.5rem;
-  background-size: 40%;
-  bottom: -6rem;
-  background-position: center top; /* Align background to the center top */
-}
-
-
-.N-img img {
-  width: 100px; /* Adjust size for small screens */
-  height: 100px;
-  margin-top: 7rem;
-  margin-left: 0;
-
-}
-.N-img {
-  margin-top: 7rem;
-  margin-left: 0;
+  .hero-container {
+    display: flex; /* Use Flexbox for layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    padding: 2.5rem;
+    background-size: 40%;
+    bottom: -6rem;
+    background-position: center top; /* Align background to the center top */
+  }
   
-}
-
-
-.para-text {
- font-size: 1.5rem;
-      text-align: center;
-      margin-right: 8rem;
-      background-position: center bottom;
-     
   
-}
-
-
-
-
-
-
-.hero-container {
-  display: flex; /* Use Flexbox for layout */
-  flex-direction: column; /* Stack items vertically */
-  align-items: center; /* Center items horizontally */
-  padding: 2.5rem;
-  background-size: 40%;
-  bottom: -6rem;
-  background-position: center top; /* Align background to the center top */
-}
-
-
-.N-img img {
-  width: 150px; /* Adjust size for small screens */
-  height: 100px;
-margin-bottom: 3rem;
-  margin-right:1.0rem ;
-}
-
-.para-text {
- font-size: 1.6rem;
-      text-align: center;
-      margin-bottom: 3.5rem;
-      padding-right: 7rem;
+  .N-img img {
+    width: 100px; /* Adjust size for small screens */
+    height: 100px;
+    margin-top: 7rem;
+    margin-left: 0;
   
+  }
+  .N-img {
+    margin-top: 7rem;
+    margin-left: 0;
+    
+  }
+  
+  
+  .para-text {
+   font-size: 1.5rem;
+        text-align: center;
+        margin-right: 8rem;
+        margin-bottom: 2rem;
+       
+    
+  }
 }
-}
+  
+  @media (max-width: 320px){
+  
+  .hero-container {
+    display: flex; /* Use Flexbox for layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    padding: 2.5rem;
+    background-size: 40%;
+    bottom: -6rem;
+    background-position: center top; /* Align background to the center top */
+  }
+  
+  
+  .N-img img {
+    width: 100px; /* Adjust size for small screens */
+    height: 100px;
+    margin-top: 4rem;
+    margin-left: 2rem;
+  
+  }
+  .N-img {
+    margin-top: 2rem;
+    margin-right: 0.1rem;
+    
+  }
 
+  
+  .para-text {
+   font-size: 1.3rem;
+        text-align: center;
+        margin-bottom: 0.5rem;
+        padding-left: 3rem;
+    
+  }
+}
+  
