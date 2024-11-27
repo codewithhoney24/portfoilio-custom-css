@@ -169,13 +169,13 @@
     margin-top: 5rem; /* Adjusted to move slightly up */
     margin-left: auto; /* Center horizontally */
     margin-right: auto; /* Center horizontally */
-    transform: translateX(-1rem);
+    transform: translateX(-4rem);
   }
 
   .N-img {
     margin-top: 5rem; /* Adjusted to move slightly up */
     text-align: center; /* Ensure the container is centered */
-    transform: translateX(-1rem);
+    transform: translateX(-4rem);
   }
 
   .para-text {
@@ -204,13 +204,13 @@
       margin-top: 5rem; /* Adjusted to move slightly up */
       margin-left: auto; /* Center horizontally */
       margin-right: auto; /* Center horizontally */
-      transform: translateX(-1rem);
+      transform: translateX(-4rem);
     }
   
     .N-img {
       margin-top: 5rem; /* Adjusted to move slightly up */
       text-align: center; /* Ensure the container is centered */
-      transform: translateX(-1rem);
+      transform: translateX(-4rem);
     }
   
     .para-text {
