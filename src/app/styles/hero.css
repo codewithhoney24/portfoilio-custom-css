@@ -117,7 +117,7 @@
 
 
 /* Extra Small Screens (Below 480px) */
-@media (max-width: 480px) {
+@media (max-width: 480px  )   {
   .hero-container {
     display: flex; /* Use Flexbox for layout */
     flex-direction: column; /* Stack items vertically */
@@ -152,40 +152,43 @@
     
   }
 }
-  
-  @media (max-width: 320px){
-  
+@media (max-width: 320px) {
   .hero-container {
     display: flex; /* Use Flexbox for layout */
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
     padding: 2.5rem;
-    background-size: 40%;
-    bottom: -6rem;
+    background-size: 50%;
     background-position: center top; /* Align background to the center top */
+    bottom: -6rem;
   }
-  
-  
+
   .N-img img {
     width: 100px; /* Adjust size for small screens */
     height: 100px;
-    margin-top: 4rem;
-    margin-left: 2rem;
-  
-  }
-  .N-img {
-    margin-top: 2rem;
-    margin-right: 0.1rem;
-    
+    margin-top: 5rem; /* Adjusted to move slightly up */
+    margin-left: auto; /* Center horizontally */
+    margin-right: auto; /* Center horizontally */
+    transform: translateX(-1rem);
   }
 
-  
+  .N-img {
+    margin-top: 5rem; /* Adjusted to move slightly up */
+    text-align: center; /* Ensure the container is centered */
+    transform: translateX(-1rem);
+  }
+
   .para-text {
-   font-size: 1.3rem;
-        text-align: center;
-        margin-bottom: 0.5rem;
-        padding-left: 3rem;
-    
+    font-size: 1.5rem;
+    text-align: center; /* Center text alignment */
+    margin-right: auto; /* Centered */
+    margin-left: auto; /* Centered */
+    margin-top: -1.5rem; /* Moved slightly up */
+    transform: translateX(-6.5rem); /* Shift slightly to the left */
   }
 }
+
   
+  
+
+   
