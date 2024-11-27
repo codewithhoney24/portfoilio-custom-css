@@ -165,22 +165,8 @@
     background-size: 50%;
     background-position: center top; /* Align background to the center top */
     bottom: -6rem;
-  }
+  } 
 
-  .N-img img {
-    width: 100px; /* Adjust size for small screens */
-    height: 100px;
-    margin-top: 5rem; /* Move slightly upward */
-    margin-left: 0.8rem; /* Center horizontally */
-    margin-right: auto; /* Center horizontally */
-    transform: translateX(-1.1rem); /* Shift slightly to the left */
-  }
-
-  .N-img {
-     margin-left:0.8rem;
-    margin-top: 4rem; /* Move slightly upward */
-    text-align: center; /* Ensure the container is centered */
-    transform: translateX(-1.1rem); /* Shift slightly to the left */
   }
 
   .para-text {
@@ -191,7 +177,15 @@
     margin-bottom: 2rem; /* Moved slightly up */
     transform: translateX(-6.5rem); /* Shift slightly to the left */
   }
-}
+ 
+    .N-img, .N-img img {
+        margin-top: 5rem;
+        transform: translateX(-1rem);
+    }
+
+
+
+
 
 @media (max-width: 220px) {
   .hero-container {
