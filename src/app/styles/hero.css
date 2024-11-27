@@ -119,6 +119,7 @@
 /* Extra Small Screens (Below 480px) */
 @media (max-width: 480px  )   {
   .hero-container {
+    min-height:65vh;
     display: flex; /* Use Flexbox for layout */
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
